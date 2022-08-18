@@ -3,7 +3,6 @@
   <ul>
   <li>🎁  <a href="https://trakteer.id/eskey">Goceng </a></li>
   <li>🎨  <a href="https://marketplace.visualstudio.com/items?itemName=Eskeyz.eskey-theme&ssr=false#overview">VSCode Theme</a></li>
-  <li>🪐  <a href="https://eskeyz.github.io/">Website</a></li>
 </ul>
 <br>
 
