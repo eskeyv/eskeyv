@@ -20,8 +20,6 @@
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
   <p>
-<a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Eskeyz&theme=radical&layout=compact&exclude_lang=java+r" />
-</a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 </p>
 </details>
