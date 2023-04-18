@@ -1,7 +1,7 @@
-<h1 align="center">Hi There <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
+### Hi There 👋, I'm `Eskey`
 
 <details>
-    <summary><b>Hi</b></summary>
+    <summary><b>My social media</b></summary>
     <br/>
     <p align="center"> <a href="https://github.com/Eskeyz/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=Eskeyz&style=for-the-badge">
