@@ -19,7 +19,6 @@
 <details> 
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
-  <p>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-</p>
+<img width="570" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eskeyz&layout=compact&hide_title=1&card_width=500" alt="Top language used in my repos" />
+<img width="" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=default&card_width=300" />
 </details>
