@@ -19,6 +19,6 @@
 <details> 
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
-<img width="570" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eskeyz&layout=compact&hide_title=1&card_width=500" alt="Top language used in my repos" />
+<img width="470" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eskeyz&layout=compact&hide_title=1&card_width=400" alt="Top language used in my repos" />
 <img width="" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=default&card_width=300" />
 </details>
