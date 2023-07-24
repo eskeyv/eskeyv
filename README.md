@@ -5,7 +5,7 @@ I'm `Eskey` from **Indonesia**, who is interested in front-end development. Curr
 Want to know more about me?
 
   <p>
-    <a href="https://www.eskeyz.my.id" target="_blank"><img src="https://img.shields.io/badge/Website-222222?&style=flat-square&logo=About.me&logoColor=white&link=https://www.eskeyz.my.id)](https://www.eskeyz.my.id"></a>
+    <a href="https://www.eskeyz.my.id" target="_blank"><img src="https://img.shields.io/badge/Website-222222?&style=flat-square&logo=About.me&logoColor=white&link=https://www.eskeyz.my.id)](https://eskey.me"></a>
     <a href="https://www.instagram.com/eskeyv_/" target="_blank"><img src="https://img.shields.io/badge/Instagram-222222?&style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/_.sanda._)](https://www.instagram.com/_.sanda._/"></a>
     <a href="https://discord.com/users/541181163155357696"><img src="https://img.shields.io/badge/-Discord-222222?style=flat-square&logo=discord&logoColor=white&link=https://discord.com/users/541181163155357696)](https://discord.com/users/541181163155357696"></a>
   </p>
