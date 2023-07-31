@@ -53,8 +53,5 @@ Want to know more about me?
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Eskeyz&count_private=true&hide=stars&show_icons=true&theme=dark&line_height=27"  alt="Dananjaya's github stats" height="220px" />
 </a>
 
-## Github Trophies
-<img src="https://github-profile-trophy.vercel.app/?username=Eskeyz&theme=onestar&rank=SSS,SS,S,AAA,AA,A,B,C,SECRET" />
-
 ------
-#### Last edited on:24/05/2023
+#### Last edited on:31/07/2023
