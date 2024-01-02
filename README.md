@@ -46,12 +46,8 @@ Want to know more about me?
 ![](https://img.shields.io/badge/Cheat_engine-003DA5?style=for-the-badge&logoColor=white)
 
 ## Github Stats
-<a href="https://github.com/Eskeyz">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eskeyz&show_icons=true&theme=dark&langs_count=8&count_private=true&card_width=280" height="220px"/>
-</a>
-<a href="https://github.com/Eskeyz">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=Eskeyz&count_private=true&hide=stars&show_icons=true&theme=dark&line_height=27"  alt="Dananjaya's github stats" height="220px" />
-</a>
+![eskeyv's Stats](https://github-readme-stats.vercel.app/api?username=eskeyv&theme=blueberry&show_icons=true&hide_border=true&count_private=true)
+![eskeyv's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eskeyv&theme=blueberry&show_icons=true&hide_border=true&layout=compact)
 
 ------
 #### Last edited on:31/07/2023
