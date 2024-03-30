@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">I'm Eskey from Indonesia<br><br>- 🔭 I’m working as front-end development<br>- 📚 I'm currently learning C++<br>- ⚡ In my free time im usually hanging out with my dog</p>
+<p align="left">I'm <b>Eskey</b> from Indonesia<br><br>- 🔭 I’m working as front-end development<br>- 📚 I'm currently learning C++<br>- ⚡ In my free time im usually hanging out with my dog</p>
 
 ###
 
