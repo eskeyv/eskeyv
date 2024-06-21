@@ -13,7 +13,7 @@
 
 - 💻 Owner of [**Pevolution**](https://dsc.gg/pevolution), a Discord server featuring the Pevolution bot, a custom-made key generator.
 - 🤔 I’m currently learning C++, improving my programming skills and understanding of the language
-- 🌱 I’m currently working as a front-end developer, focusing on creating intuitive and engaging user interfaces.
+- 🌱 I’m working as a front-end developer, focusing on creating intuitive and engaging user interfaces.
 - 📫 How to reach me: contact@eskey.me
 
 
