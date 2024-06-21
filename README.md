@@ -1,85 +1,35 @@
-<h1 align="left">Hey there 👋🏻</h1>
+# Hey there 👋🏻
 
-###
+### I'm Eskey, a self-taught web developer.
 
-<h3 align="left">👩‍💻  About Me</h3>
 
-###
 
-<p align="left">I'm <b>Eskey</b> from Indonesia<br><br>- 🔭 I’m working as front-end development<br>- 📚 I'm currently learning C++<br>- ⚡ In my free time im usually hanging out with my dog</p>
 
-###
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?logo=instagram&logoColor=white&link=https://instagram.com/eskeeyv/)](https://www.instagram.com/eskeeyv)
+[![Discord Badge](https://img.shields.io/badge/-Discord-7289da?logo=discord&logoColor=white&link=https://discord.com/users/541181163155357696/)](https://discord.com/users/541181163155357696)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:contact@eskey.me)
+[![Website Badge](https://img.shields.io/badge/-Website-000000?style=flat&logo=Google-Chrome&logoColor=white&link=https://eskey.me)](https://eskey.me)
+[![Github](https://img.shields.io/github/followers/eskeyv?label=Follow&style=social)](https://github.com/eskeyv)
 
-<h3 align="left">🔗 Languages and tools</h3>
+- 💻 Owner of [**Pevolution**](https://dsc.gg/pevolution), a Discord server featuring the Pevolution bot, a custom-made key generator.
+- 🤔 I’m currently learning C++, improving my programming skills and understanding of the language
+- 🌱 I’m currently working as a front-end developer, focusing on creating intuitive and engaging user interfaces.
+- 📫 How to reach me: contact@eskey.me
 
-###
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=lua" height="40" alt="lua logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"  />
-</div>
+### 🖥 Skills
 
-###
+- Front-End Development
+- Reverse Engineering
+- Game Hacking
+### ⚙️ Tech Stack
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=laravel" height="40" alt="laravel logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=sass" height="40" alt="sass logo"  />
-</div>
+![Bootstrap](https://img.shields.io/badge/-Javascript-05122A?style=flat-square&logo=Javascript&color=353535) ![Bootstrap](https://img.shields.io/badge/-Python-05122A?style=flat-square&logo=Python&color=353535) ![Bootstrap](https://img.shields.io/badge/-PHP-05122A?style=flat-square&logo=PHP&color=353535) ![Bootstrap](https://img.shields.io/badge/-CSharp-05122A?style=flat-square&logo=CSharp&color=353535) ![Bootstrap](https://img.shields.io/badge/-Lua-05122A?style=flat-square&logo=Lua&color=353535) 
 
-###
+![Bootstrap](https://img.shields.io/badge/-React-05122A?style=flat-square&logo=React&color=353535) ![Bootstrap](https://img.shields.io/badge/-Node.JS-05122A?style=flat-square&logo=Node.JS&color=353535) ![Bootstrap](https://img.shields.io/badge/-Vue.JS-05122A?style=flat-square&logo=Vue.JS&color=353535) ![Bootstrap](https://img.shields.io/badge/-Next.JS-05122A?style=flat-square&logo=Next.JS&color=353535) ![Bootstrap](https://img.shields.io/badge/-Laravel-05122A?style=flat-square&logo=Laravel&color=353535) ![Bootstrap](https://img.shields.io/badge/-Tailwind%20CSS-05122A?style=flat-square&logo=Tailwind-CSS&color=353535) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat-square&logo=Bootstrap&color=353535) ![Bootstrap](https://img.shields.io/badge/-SASS-05122A?style=flat-square&logo=SASS&color=353535)
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=visualstudio" height="40" alt="visualstudio logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ae" height="40" alt="adobeaftereffects logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=pr" height="40" alt="adobepremierepro logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ps" height="40" alt="adobephotoshop logo"  />
-</div>
+![Bootstrap](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat-square&logo=Visual-Studio-Code&color=353535) ![Bootstrap](https://img.shields.io/badge/-Visual%20Studio-05122A?style=flat-square&logo=Visual-Studio&color=353535) ![Bootstrap](https://img.shields.io/badge/-PyCharm-05122A?style=flat-square&logo=PyCharm&color=353535) ![Bootstrap](https://img.shields.io/badge/-Adobe%20After%20Effects-05122A?style=flat-square&logo=Adobe-After-Effects&color=353535) ![Bootstrap](https://img.shields.io/badge/-Adobe%20Photoshop-05122A?style=flat-square&logo=Adobe-Photoshop&color=353535) ![Bootstrap](https://img.shields.io/badge/-Adobe%20Premiere%20Pro-05122A?style=flat-square&logo=Adobe-Premiere-Pro&color=353535) ![Bootstrap](https://img.shields.io/badge/-Adobe%20Lightroom-05122A?style=flat-square&logo=Adobe-Lightroom&color=353535) ![Bootstrap](https://img.shields.io/badge/-Figma-05122A?style=flat-square&logo=Figma&color=353535)
 
-###
+### 🚨 Profile Views Counter
 
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=eskeyv&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=eskeyv&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<h3>💎 Socials</h3>
-
-###
-
-<div align="left">
-    <a href="https://discord.com/users/541181163155357696" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  </a>
-  <a href="https://www.instagram.com/eskeeyv/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-  </a>
-  <br/>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=eskeyv.eskeyv&"  />
-</div>
+![Profile counter](https://komarev.com/ghpvc/?username=eskeyv&style=for-the-badge)
